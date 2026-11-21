@@ -1,0 +1,15 @@
+# --- Obsidian: regenerated, not memory ---
+.obsidian/plugins/
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache
+.obsidian/obsidian-livesync/
+
+# --- Smart Connections embedding cache (regenerates on every start) ---
+.smart-env/smart_sources/
+
+# --- Editor / OS noise ---
+.DS_Store
+*.swp
+*~
+.directory

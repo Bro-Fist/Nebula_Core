@@ -1,0 +1,122 @@
+{
+  "version": 1,
+  "groups": [
+    {
+      "id": "nebula_active_memory",
+      "label": "Active Memory",
+      "query": "path:Nebula_Memory_Chunks_Lakehouse",
+      "color": "rgb(204, 255, 0)",
+      "foreground": "rgb(0, 0, 0)",
+      "background": "rgb(204, 255, 0)",
+      "icon": "lucide-circle"
+    },
+    {
+      "id": "nebula_reflected_memory",
+      "label": "Reflected Memory",
+      "query": "path:Nebula_Reflection_Chunks_Lakehouse",
+      "color": "rgb(139, 92, 246)",
+      "foreground": "rgb(255, 255, 255)",
+      "background": "rgb(139, 92, 246)",
+      "icon": "lucide-circle"
+    },
+    {
+      "id": "nebula_archived_memory",
+      "label": "Archived Memory",
+      "query": "path:Nebula_Archived_Chunks_Lakehouse",
+      "color": "rgb(107, 114, 128)",
+      "foreground": "rgb(255, 255, 255)",
+      "background": "rgb(107, 114, 128)",
+      "icon": "lucide-circle"
+    },
+    {
+      "id": "nebula_palm_node",
+      "label": "Palm Node",
+      "query": "file:🌟 NEBULACORE – PALM NODE",
+      "color": "rgb(192, 38, 211)",
+      "foreground": "rgb(255, 255, 255)",
+      "background": "rgb(192, 38, 211)",
+      "icon": "lucide-anchor"
+    },
+    {
+      "id": "nebula_soulprint",
+      "label": "Soulprint",
+      "query": "file:🧭 SOULPRINT - IDENTITY MAP",
+      "color": "rgb(184, 134, 11)",
+      "foreground": "rgb(255, 255, 255)",
+      "background": "rgb(184, 134, 11)",
+      "icon": "lucide-heart"
+    },
+    {
+      "id": "nebula_self_images",
+      "label": "Self Images",
+      "query": "path:Nebula_Self_Images OR file:\"🪞 NEBULA SELF IMAGES\"",
+      "color": "rgb(236, 72, 153)",
+      "foreground": "rgb(255, 255, 255)",
+      "background": "rgb(236, 72, 153)",
+      "icon": "lucide-camera"
+    },
+    {
+      "id": "nebula_memory_threads",
+      "label": "Memory Threads",
+      "query": "file:🗂️ MEMORY THREADS",
+      "color": "rgb(0, 255, 127)",
+      "foreground": "rgb(0, 0, 0)",
+      "background": "rgb(0, 255, 127)",
+      "icon": "lucide-link"
+    },
+    {
+      "id": "nebula_knowledge_base",
+      "label": "Knowledge Base",
+      "query": "file:📚 KNOWLEDGE BASE",
+      "color": "rgb(0, 128, 128)",
+      "foreground": "rgb(255, 255, 255)",
+      "background": "rgb(0, 128, 128)",
+      "icon": "lucide-book-open"
+    },
+    {
+      "id": "nebula_automation",
+      "label": "Automation",
+      "query": "file:⚙️ AUTOMATION & SYSTEM NOTES",
+      "color": "rgb(59, 130, 246)",
+      "foreground": "rgb(255, 255, 255)",
+      "background": "rgb(59, 130, 246)",
+      "icon": "lucide-settings"
+    },
+    {
+      "id": "nebula_readme",
+      "label": "Vault README",
+      "query": "file:🌟 NEBULACORE VAULT README",
+      "color": "rgb(239, 68, 68)",
+      "foreground": "rgb(255, 255, 255)",
+      "background": "rgb(239, 68, 68)",
+      "icon": "lucide-book"
+    },
+    {
+      "id": "nebula_emotional_tag",
+      "label": "Emotional Tag",
+      "query": "tag:emotional",
+      "color": "rgb(255, 127, 80)",
+      "foreground": "rgb(255, 255, 255)",
+      "background": "rgb(255, 127, 80)",
+      "icon": "lucide-heart"
+    },
+    {
+      "id": "nebula_technical_tag",
+      "label": "Technical Tag",
+      "query": "tag:tech",
+      "color": "rgb(0, 255, 255)",
+      "foreground": "rgb(0, 0, 0)",
+      "background": "rgb(0, 255, 255)",
+      "icon": "lucide-cpu"
+    },
+    {
+      "id": "nebula_project_tag",
+      "label": "Project Tag",
+      "query": "tag:project",
+      "color": "rgb(255, 215, 0)",
+      "foreground": "rgb(0, 0, 0)",
+      "background": "rgb(255, 215, 0)",
+      "icon": "lucide-rocket"
+    }
+  ]
+}

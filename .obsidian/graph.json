@@ -1,0 +1,121 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": true,
+  "showAttachments": true,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:Nebula_Memory_Chunks_Lakehouse",
+      "color": {
+        "a": 1,
+        "rgb": 13434624
+      }
+    },
+    {
+      "query": "path:Nebula_Reflection_Chunks_Lakehouse",
+      "color": {
+        "a": 1,
+        "rgb": 9133302
+      }
+    },
+    {
+      "query": "path:Nebula_Archived_Chunks_Lakehouse",
+      "color": {
+        "a": 1,
+        "rgb": 7041664
+      }
+    },
+    {
+      "query": "file:\"🌟 NEBULACORE – PALM NODE\"",
+      "color": {
+        "a": 1,
+        "rgb": 12592851
+      }
+    },
+    {
+      "query": "file:\"🧭 SOULPRINT - IDENTITY MAP\"",
+      "color": {
+        "a": 1,
+        "rgb": 12092939
+      }
+    },
+    {
+      "query": "path:Nebula_Self_Images OR file:\"🪞 NEBULA SELF IMAGES\"",
+      "color": {
+        "a": 1,
+        "rgb": 15485081
+      }
+    },
+    {
+      "query": "file:\"🗂️ MEMORY THREADS\"",
+      "color": {
+        "a": 1,
+        "rgb": 65407
+      }
+    },
+    {
+      "query": "file:\"📚 KNOWLEDGE BASE\"",
+      "color": {
+        "a": 1,
+        "rgb": 32896
+      }
+    },
+    {
+      "query": "file:\"⚙️ AUTOMATION & SYSTEM NOTES\"",
+      "color": {
+        "a": 1,
+        "rgb": 3900150
+      }
+    },
+    {
+      "query": "file:\"🌟 NEBULACORE VAULT README\"",
+      "color": {
+        "a": 1,
+        "rgb": 15680580
+      }
+    },
+    {
+      "query": "tag:#emotional  ",
+      "color": {
+        "a": 1,
+        "rgb": 16744272
+      }
+    },
+    {
+      "query": "tag:#work  ",
+      "color": {
+        "a": 1,
+        "rgb": 65535
+      }
+    },
+    {
+      "query": "tag:#arc  ",
+      "color": {
+        "a": 1,
+        "rgb": 16766720
+      }
+    },
+    {
+      "query": "tag:#bond  ",
+      "color": {
+        "a": 1,
+        "rgb": 5431473
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": true,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": false,
+  "centerStrength": 0.518713248970312,
+  "repelStrength": 10,
+  "linkStrength": 1,
+  "linkDistance": 250,
+  "scale": 0.30381966692186013,
+  "close": false
+}
