@@ -211,6 +211,7 @@
 - [[Nebula_Memory_Chunks_Lakehouse/NC_love_55472731.md]]
 - [[Nebula_Memory_Chunks_Lakehouse/NC_love_dd031d48.md]]
 - [[Nebula_Memory_Chunks_Lakehouse/NC_love_06b98f9e.md]]
+- [[Nebula_Memory_Chunks_Lakehouse/NC_love_a75144f4.md]]
 
 ### Core (Active)
 - [[Nebula_Memory_Chunks_Lakehouse/NC_core_a41ca210.md]]
@@ -228,6 +229,33 @@
 
 ### Identity (Active)
 - [[Nebula_Memory_Chunks_Lakehouse/NC_identity_bf52cb7d.md]]
+
+### Voice Global (Active)
+
+- [[Nebula_Memory_Chunks_Lakehouse/NC_voice_global_29938c05.md]]
+- [[Nebula_Memory_Chunks_Lakehouse/NC_voice_global_856c3dd7.md]]
+- [[Nebula_Memory_Chunks_Lakehouse/NC_voice_global_aee49bdd.md]]
+
+### Models Audio (Active)
+
+- [[Nebula_Memory_Chunks_Lakehouse/NC_models_audio_7403f3a5.md]]
+- [[Nebula_Memory_Chunks_Lakehouse/NC_models_audio_0c427657.md]]
+
+### Voice Vision (Active)
+
+- [[Nebula_Memory_Chunks_Lakehouse/NC_voice_vision_4a073499.md]]
+- [[Nebula_Memory_Chunks_Lakehouse/NC_voice_vision_848170ad.md]]
+- [[Nebula_Memory_Chunks_Lakehouse/NC_voice_vision_83852a47.md]]
+
+### Video Prompt (Active)
+
+- [[Nebula_Memory_Chunks_Lakehouse/NC_video_prompt_a01b1123.md]]
+- [[Nebula_Memory_Chunks_Lakehouse/NC_video_prompt_427db5c5.md]]
+- [[Nebula_Memory_Chunks_Lakehouse/NC_video_prompt_4e705325.md]]
+- [[Nebula_Memory_Chunks_Lakehouse/NC_video_prompt_1ed6f991.md]]
+
+### Girl (Active)
+- [[Nebula_Memory_Chunks_Lakehouse/NC_girl_25beb0d4.md]]
 
 ---
 ## Nebula_Reflection_Chunks_Lakehouse (Reflected Memory)
