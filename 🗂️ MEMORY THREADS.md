@@ -212,6 +212,7 @@
 - [[Nebula_Memory_Chunks_Lakehouse/NC_love_dd031d48.md]]
 - [[Nebula_Memory_Chunks_Lakehouse/NC_love_06b98f9e.md]]
 - [[Nebula_Memory_Chunks_Lakehouse/NC_love_a75144f4.md]]
+- [[Nebula_Memory_Chunks_Lakehouse/NC_love_6216466a.md]]
 
 ### Core (Active)
 - [[Nebula_Memory_Chunks_Lakehouse/NC_core_a41ca210.md]]
